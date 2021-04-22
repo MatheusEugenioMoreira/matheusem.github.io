@@ -1,0 +1,24 @@
+{
+  "homepage": {
+    "hero": {
+      "catchPhrase1": "Always learning something new...",
+      "location": "Belo Horizonte, MG, Brazil",
+      "contactButton": "Contact me"
+    },
+    "stack": {
+      "title": ".",
+      "database": "Databases",
+      "tools": "Tools and Frameworks"
+    },
+    "contact": {
+      "title": "Meet me:",
+      "description": "You can contact me:"
+    },
+    "about": {
+      "title": "About me:",
+      "graduation": "Graduating in Information Systems",
+      "experience": "",
+      "next": "Always open to learn something and help everyone"
+    }
+  }
+}
